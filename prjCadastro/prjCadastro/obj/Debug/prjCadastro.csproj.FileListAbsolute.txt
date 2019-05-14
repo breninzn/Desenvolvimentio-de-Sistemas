@@ -1,0 +1,20 @@
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\bin\Debug\prjCadastro.exe.config
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\obj\Debug\prjCadastro.csprojResolveAssemblyReference.cache
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\obj\Debug\prjCadastro.Form1.resources
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\obj\Debug\prjCadastro.Properties.Resources.resources
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\obj\Debug\prjCadastro.csproj.GenerateResource.Cache
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\bin\Debug\prjCadastro.exe
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\bin\Debug\prjCadastro.pdb
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\obj\Debug\prjCadastro.exe
+c:\users\aluno-e1\documents\visual studio 2015\Projects\prjCadastro\prjCadastro\obj\Debug\prjCadastro.pdb
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\bin\Debug\prjCadastro.exe.config
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.exe
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.pdb
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.Form1.resources
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.Properties.Resources.resources
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\bin\Debug\prjCadastro.exe
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\bin\Debug\prjCadastro.pdb
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.frmProduto.resources
+C:\Users\Aluno\Desktop\prjCadastro\prjCadastro\obj\Debug\prjCadastro.frmFornecedor.resources
